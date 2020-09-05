@@ -1,3 +1,1 @@
-这是一个学习git如何使用的学习笔记。
-学习不同人向远端提交分支
-
+hello,this is a test for learn git.
