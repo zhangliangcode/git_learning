@@ -1,1 +1,1 @@
-hello,this is a test for learn git.这是测试文字
+git 练习项目
